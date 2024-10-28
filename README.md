@@ -35,5 +35,6 @@ It is recommended to use Anaconda for managing dependencies and environments.
 - Implement a custom neural network using PyTorch's `torch.nn` module.
 - Train the neural network and evaluate its ability to predict collisions accurately.
 
-## Acknowledgement: 
+## Acknowledgments
+This project was developed as part of the coursework for CSE 571: Artificial Intelligence at Arizona State University. Special thanks to the course instructors for their guidance and the provided materials.
 
